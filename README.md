@@ -40,7 +40,7 @@ heic2jpeg/
 
 ## 📦 Dependencies
 
-Dependencies are listed in [**`requirements.txt`**](requirements.txt)*
+Dependencies are listed in [**`requirements.txt`**](requirements.txt).
 
 ```
 pillow
